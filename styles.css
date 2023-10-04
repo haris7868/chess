@@ -1,0 +1,13 @@
+body{
+    position: relative;
+}
+table{
+    height: 400px;
+    position: sticky;
+    width: 440px;
+    border: 5px solid black;
+}
+td{
+   
+    align-items: center;
+}
